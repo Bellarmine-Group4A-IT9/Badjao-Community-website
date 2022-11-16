@@ -1,0 +1,188 @@
+DIVS:
+div{
+width:900px;
+}
+
+div#content{
+background-color: white;
+font-size:18px;
+text-align:justify;
+line-height:25px;
+width:945px;		
+margin-top:5px;  
+margin-left:320px;
+float:left; 
+}
+
+div#navigation{
+margin-left:320px;
+width:1277px;
+background-color:#c16f58;
+padding:10px;
+}
+
+div#header{
+background:url(banner.png) no-repeat;
+width:1277px;
+height:150px;
+margin-top:0px;
+margin-left:320px;		
+margin-bottom:0px;
+padding:70 0 0 20; 
+}
+	
+div#sidebar{
+background-color:#e68699;
+width:350px;
+height:1470px;		
+margin-left:0px;
+margin-top:5px;
+float:left;
+}
+
+div#about{
+background-color: white;
+font-size:18px;
+text-align:justify;
+line-height:25px;
+width:945px;		
+margin-top:5px;  
+margin-left:320px;
+float:left; 
+}
+
+div#video{
+margin:10px 20px;	
+}
+
+
+a{
+color: black;
+font-size: 20px;
+padding:10px 20px;
+text-decoration:none;
+font-family: Acme;		
+}
+
+a:visited{
+color:white;
+font-size:25px;
+padding:10px 15px;
+text-decoration:none;
+}
+
+a:hover{
+color:white;
+font-size:22px;
+font-weight:bolder;
+text-decoration: overline underline;
+text-transform:uppercase;
+}
+
+a#backtotop{
+background-color: back;
+color:#587cae;
+font-size:25px;
+padding:10px 15px;
+text-decoration:none;
+border:4px  dotted black;
+margin-right:10px;
+}
+
+a#backtotop:visited{
+color:white;
+font-size:25px;
+padding:10px 15px;
+text-decoration:none;
+border:4px  dotted black;
+}
+
+a#backtotop:hover{
+color: black;
+font-size:25px;
+border:4px  dotted black;
+}
+
+TEXT:
+p{
+text-align: justify;
+line-height: 40px;
+font-family: Acme;
+}
+
+p.subpar{
+font-size:20px;
+font-family: Acme;
+}
+
+p#mainpar{
+font-size:25px;	
+font-weight:bolder;
+font-family: Acme;
+}
+
+p#bullet{
+padding: 10px 15px;
+font-size:20px;
+font-family: Acme;
+}
+
+h1,h2{
+font-family:Caveat;
+padding: 5px 15px;
+}
+
+h2#sidebar{
+font-size: 40px;
+}
+
+h2#about{
+background-color:#e68699;
+padding:20px 15px;
+color:white;
+font-family:Caveat;
+font-size:40px;
+}
+
+b{
+font-size:25px;
+color:#f7b09c;
+font-style:Acme;
+}
+
+img{
+float:left;	
+height:250px;
+margin:10px 20px;	
+}
+
+img#mission{
+float: right;
+height: 150px;
+width: 250px;
+margin: 10px 20px;
+}
+
+img#members{
+height:250px;
+weight: 300px;
+margin:10px 10px;	
+float:left;	
+}
+
+img#about{
+float:left;	
+height:250px;
+margin:10px 20px;	
+}
+
+img#problem{
+float:right;	
+height:260px;
+margin:10px 20px;	
+}
+
+
+
+
+
